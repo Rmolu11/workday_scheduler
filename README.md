@@ -1,4 +1,4 @@
-# Workdat Scheduler ()
+# Workday Scheduler (https://ralphmolu.github.io/workday_scheduler/)
 ## Description
 This simple  scheduler adds clarity to you daily timeboxing. It spans ever the typical working hours: 9am - 5pm. The grey block(s) are past, the red block represents the current hour  and the green block(s) represent upcoming hours. The visual cues allow you to quickly and efficiently navigate through your tasks and events.
 
